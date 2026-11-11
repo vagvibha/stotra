@@ -1,0 +1,13 @@
+title: "मुकुन्दमाला"
+skip_text_index: true
+shloka_toc: false
+order: 1
+dict:
+  folder: stotra
+# Each shloka's समासविग्रहाः follow it as <notes>: hidden until the
+# Show/Hide button is used.
+gloss_types:
+  - data_type: notes
+    css_style: basic_gloss
+    hideable: true
+    hidden_by_default: true

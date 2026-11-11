@@ -1,0 +1,11 @@
+title: "श्रीविष्णुसहस्रनामस्तोत्रम्"
+shloka_toc: false
+dict:
+  folder: stotra
+# Each name's meaning follows its shloka as <notes>: hidden until the
+# Show/Hide button is used.
+gloss_types:
+  - data_type: notes
+    css_style: basic_gloss
+    hideable: true
+    hidden_by_default: true

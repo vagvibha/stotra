@@ -1,0 +1,6 @@
+title: "फलश्रुतिः"
+dict:
+  type: shloka
+  # keys come only from each shloka's syns= (the names) or, where a
+  # shloka has none, its file's frontmatter dict.syns
+  auto_shloka: false

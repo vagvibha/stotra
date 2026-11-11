@@ -1,0 +1,3 @@
+[submodule "ssengine"]
+	path = ssengine
+	url = https://github.com/vagvibha/ssengine.git
